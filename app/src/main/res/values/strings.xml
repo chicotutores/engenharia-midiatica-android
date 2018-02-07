@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EngenhariaMidiatia</string>
+    <string name="news">Notícias</string>
+    <string name="twitter_tab_description">Fala Cidadão</string>
+    <string name="results">Resultados</string>
+    <string name="journals">Jornais</string>
+</resources>
